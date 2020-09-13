@@ -1,9 +1,9 @@
 # Regularizar & Metricas de regressão logistica
 
-Recomendo instalação, desse Extensão e usar no visual studio,
+Recomendo instalação, desse Extensão e usar no visual studio , ao ínvez do jupyter notebook.
  -  https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-Prática p/ materia de inteligencia computacional, em conjunto com o Jonathan Henrique, 
+Prática p/ materia de inteligencia computacional, em conjunto com o Jonathan Henrique, essa prática é uma extensão da anterior, https://github.com/afa7789/regressaologistica. E o foco dela é em entender melhor e tentar fazer o uso de metricas e diferentes solvers p/ regressão logística.
 
 Pode-se também rodar com jupyter notebook.
 
