@@ -1,9 +1,14 @@
-# regularizar-metricas
-prática p/ matéria do cefet.
+# Regularizar & Metricas de regressão logistica
 
-rode com jupyter notebook.
+Recomendo instalação, desse Extensão e usar no visual studio,
+ -  https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-sudo apt install jupyter-core
+Prática p/ materia de inteligencia computacional, em conjunto com o Jonathan Henrique, 
 
-abre jupyter notebook na pasta. sejá feliz.
+Pode-se também rodar com jupyter notebook.
+
+	- $`sudo apt install jupyter-core`
+	- $`git clone https://github.com/afa7789/regularizar-metricas`
+	- $`cd regularizar-metricas`
+	- $`jupyter notebook` abre jupyter notebook na pasta em que deu git clone	
 
